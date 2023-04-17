@@ -1,3 +1,39 @@
 body {
   background-color: aquamarine;
 }
+#page-header {
+  width: 100%;
+  height: 28vh;
+  background-color: blueviolet;
+  color: azure;
+  font-family: "Days One", sans-serif;
+  padding-top: 85px !important;
+}
+
+#middle-feature-1 {
+  height: 28vw;
+  width: 30%;
+  background-color: cadetblue;
+  font-family: "Days One", sans-serif;
+  font-size: 3.6rem !important;
+}
+
+#middle-feature-2 {
+  height: 28vw;
+  width: 30%;
+  background-color: navajowhite;
+  font-family: "Days One", sans-serif;
+}
+
+#middle-feature-3 {
+  height: 28vw;
+  width: 40%;
+  background-color: honeydew;
+  font-family: "Days One", sans-serif;
+}
+
+#page-footer {
+  font-family: "Days One", sans-serif;
+  font-size: larger;
+  padding-top: 25px;
+}
